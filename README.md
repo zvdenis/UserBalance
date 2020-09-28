@@ -32,3 +32,8 @@
 # Работа сервиса
 Для обработки запросов используется Handler, который для запроса вызывает соответствующие методы UserBalance. Currency отвечает за получение курса валют. 
 В файле MySQL.txt содержатся скрипты создания таблиц
+
+# Примеры
+
+
+![Test Image](https://github.com/zvdenis/UserBalance/blob/master/Examples.png)
