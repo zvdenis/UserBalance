@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b004b253-4090-4dca-8dcd-4f285ec443c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Users\zvdenis\go\go1.15.2" />
+  <component name="ProjectId" id="1i5tWvks8lgEaidXXbT6ylE4v86" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build UserBalance" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="UserBalance" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Main.go" />
+      <package value="UserBalance" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build UserBalance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1042" y="243" key="#xdebugger.evaluate" timestamp="1601214272468">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1042" y="243" key="#xdebugger.evaluate/0.0.1920.1080/-1680.-484.1680.1050@0.0.1920.1080" timestamp="1601214272468" />
+    <state width="541" height="466" key="DebuggerActiveHint" timestamp="1601283514242">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="520" height="466" key="DebuggerActiveHint/0.0.1920.1080/-1680.-484.1680.1050@0.0.1920.1080" timestamp="1601214365195" />
+    <state width="541" height="466" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1601283514242" />
+    <state width="1219" height="292" key="GridCell.Tab.0.bottom" timestamp="1601283647708">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1219" height="206" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1680.-484.1680.1050@0.0.1920.1080" timestamp="1601214277078" />
+    <state width="1219" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601283647708" />
+    <state width="1219" height="292" key="GridCell.Tab.0.center" timestamp="1601283647708">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1219" height="206" key="GridCell.Tab.0.center/0.0.1920.1080/-1680.-484.1680.1050@0.0.1920.1080" timestamp="1601214277078" />
+    <state width="1219" height="292" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601283647708" />
+    <state width="1219" height="292" key="GridCell.Tab.0.left" timestamp="1601283647708">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1219" height="206" key="GridCell.Tab.0.left/0.0.1920.1080/-1680.-484.1680.1050@0.0.1920.1080" timestamp="1601214277078" />
+    <state width="1219" height="292" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601283647708" />
+    <state width="1219" height="292" key="GridCell.Tab.0.right" timestamp="1601283647708">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1219" height="206" key="GridCell.Tab.0.right/0.0.1920.1080/-1680.-484.1680.1050@0.0.1920.1080" timestamp="1601214277078" />
+    <state width="1219" height="292" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601283647708" />
+    <state width="1219" height="206" key="GridCell.Tab.1.bottom" timestamp="1601283562667">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1219" height="206" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1680.-484.1680.1050@0.0.1920.1080" timestamp="1601214280560" />
+    <state width="1219" height="206" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601283562667" />
+    <state width="1219" height="206" key="GridCell.Tab.1.center" timestamp="1601283562667">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1219" height="206" key="GridCell.Tab.1.center/0.0.1920.1080/-1680.-484.1680.1050@0.0.1920.1080" timestamp="1601214280560" />
+    <state width="1219" height="206" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601283562667" />
+    <state width="1219" height="206" key="GridCell.Tab.1.left" timestamp="1601283562667">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1219" height="206" key="GridCell.Tab.1.left/0.0.1920.1080/-1680.-484.1680.1050@0.0.1920.1080" timestamp="1601214280560" />
+    <state width="1219" height="206" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601283562667" />
+    <state width="1219" height="206" key="GridCell.Tab.1.right" timestamp="1601283562667">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1219" height="206" key="GridCell.Tab.1.right/0.0.1920.1080/-1680.-484.1680.1050@0.0.1920.1080" timestamp="1601214280560" />
+    <state width="1219" height="206" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601283562667" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Services/Handler.go</url>
+          <line>70</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Services/Handler.go</url>
+          <line>110</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Services/Handler.go</url>
+          <line>126</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
