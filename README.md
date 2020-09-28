@@ -3,9 +3,9 @@
 
 # Запрос
 Для получения баланса и истории пользователя используются запросы следующего вида
-http://localhost:8080/history/{id}
-http://localhost:8080/users/{id}
-http://localhost:8080/users/{id}?="USD" 
+* http://localhost:8080/history/{id}
+* http://localhost:8080/users/{id}
+* http://localhost:8080/users/{id}?="USD" 
 
 Возвращаются JSON ответы вида:
 ```
@@ -16,9 +16,9 @@ http://localhost:8080/users/{id}?="USD"
 В случае истории полльзователя возвращается массив строк, с информацией о переводе
 
 Для изменения баланса используется запрос вида
-http://localhost:8080/add
-http://localhost:8080/debit
-http://localhost:8080/transfer
+* http://localhost:8080/add
+* http://localhost:8080/debit
+* http://localhost:8080/transfer
 
 ```
 {
